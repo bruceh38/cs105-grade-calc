@@ -28,6 +28,3 @@ This is a local command line tool for calculating the cumulative homework grade 
 python3 cs105_grade_calc.py
 ```
 
-## Next step
-
-Replace the placeholder entries in `homework_weights.json` with the real component names and weights for each of the 9 homeworks.
