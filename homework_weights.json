@@ -1,0 +1,435 @@
+[
+  {
+    "name": "Homework 1",
+    "components": [
+      {
+        "name": "Algebraic Laws and Code Structure - double-digit",
+        "weight": 9
+      },
+      {
+        "name": "Algebraic Laws and Code Structure - binary or population-count",
+        "weight": 8
+      },
+      {
+        "name": "Algebraic Laws and Code Structure - prime?, nthprime, or helper function",
+        "weight": 8
+      },
+      {
+        "name": "Contracts",
+        "weight": 15
+      },
+      {
+        "name": "Code Form, Layout, and Tests",
+        "weight": 20
+      },
+      {
+        "name": "Functional Correctness - double-digit",
+        "weight": 8
+      },
+      {
+        "name": "Functional Correctness - population-count",
+        "weight": 8
+      },
+      {
+        "name": "Functional Correctness - binary",
+        "weight": 8
+      },
+      {
+        "name": "Functional Correctness - prime?",
+        "weight": 6
+      },
+      {
+        "name": "Functional Correctness - sigma",
+        "weight": 5
+      },
+      {
+        "name": "Functional Correctness - nthprime",
+        "weight": 5
+      }
+    ]
+  },
+  {
+    "name": "Homework 2",
+    "components": [
+      {
+        "name": "Part A - Converting abstract syntax to concrete syntax",
+        "weight": 10
+      },
+      {
+        "name": "Part B - Translation of operational semantics to English",
+        "weight": 6
+      },
+      {
+        "name": "Part B - Translation of English to operational semantics",
+        "weight": 8
+      },
+      {
+        "name": "Part B - Explanations of Altered Impcore Rules",
+        "weight": 6
+      },
+      {
+        "name": "Part C - Semantics for unbound variables comparable to Awk/Icon",
+        "weight": 25
+      },
+      {
+        "name": "Part C - Functional correctness of awk-icon.imp",
+        "weight": 10
+      },
+      {
+        "name": "Part C - Combining global and formal environments",
+        "weight": 35
+      }
+    ]
+  },
+  {
+    "name": "Homework 3",
+    "components": [
+      {
+        "name": "Proof that append is associative",
+        "weight": 20
+      },
+      {
+        "name": "Algebraic Laws and Code Structure - flatten",
+        "weight": 5
+      },
+      {
+        "name": "Algebraic Laws and Code Structure - take or drop",
+        "weight": 5
+      },
+      {
+        "name": "Algebraic Laws and Code Structure - zip",
+        "weight": 5
+      },
+      {
+        "name": "Algebraic Laws and Code Structure - arg-max",
+        "weight": 5
+      },
+      {
+        "name": "Contracts and Unit Tests",
+        "weight": 10
+      },
+      {
+        "name": "Functional Correctness - contig-sublist?",
+        "weight": 8
+      },
+      {
+        "name": "Functional Correctness - flatten",
+        "weight": 8
+      },
+      {
+        "name": "Functional Correctness - take",
+        "weight": 7
+      },
+      {
+        "name": "Functional Correctness - drop",
+        "weight": 7
+      },
+      {
+        "name": "Functional Correctness - zip",
+        "weight": 8
+      },
+      {
+        "name": "Functional Correctness - unzip",
+        "weight": 6
+      },
+      {
+        "name": "Functional Correctness - arg-max",
+        "weight": 6
+      }
+    ]
+  },
+  {
+    "name": "Homework 4",
+    "components": [
+      {
+        "name": "Calculational Proof with Higher-Order Functions",
+        "weight": 15
+      },
+      {
+        "name": "Algebraic Laws and Code Structure - flip",
+        "weight": 6
+      },
+      {
+        "name": "Algebraic Laws and Code Structure - takewhile or dropwhile",
+        "weight": 6
+      },
+      {
+        "name": "Algebraic Laws and Code Structure - ordered-by?",
+        "weight": 6
+      },
+      {
+        "name": "Algebraic Laws and Code Structure - set property laws",
+        "weight": 6
+      },
+      {
+        "name": "Effective Use of Folds",
+        "weight": 15
+      },
+      {
+        "name": "Functional Correctness - flip",
+        "weight": 4
+      },
+      {
+        "name": "Functional Correctness - takewhile",
+        "weight": 4
+      },
+      {
+        "name": "Functional Correctness - dropwhile",
+        "weight": 4
+      },
+      {
+        "name": "Functional Correctness - evens",
+        "weight": 3
+      },
+      {
+        "name": "Functional Correctness - two-digits",
+        "weight": 3
+      },
+      {
+        "name": "Functional Correctness - ordered-by",
+        "weight": 6
+      },
+      {
+        "name": "Functional Correctness - max*",
+        "weight": 2
+      },
+      {
+        "name": "Functional Correctness - product",
+        "weight": 2
+      },
+      {
+        "name": "Functional Correctness - append",
+        "weight": 2
+      },
+      {
+        "name": "Functional Correctness - reverse",
+        "weight": 2
+      },
+      {
+        "name": "Functional Correctness - all?",
+        "weight": 2
+      },
+      {
+        "name": "Functional Correctness - map",
+        "weight": 2
+      },
+      {
+        "name": "Functional Correctness - filter",
+        "weight": 2
+      },
+      {
+        "name": "Functional Correctness - add-element",
+        "weight": 2
+      },
+      {
+        "name": "Functional Correctness - union",
+        "weight": 2
+      },
+      {
+        "name": "Functional Correctness - inter",
+        "weight": 2
+      },
+      {
+        "name": "Functional Correctness - diff",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Homework 5",
+    "components": [
+      {
+        "name": "New Operational Semantics for val - Part A",
+        "weight": 8
+      },
+      {
+        "name": "New Operational Semantics for val - Part B",
+        "weight": 5
+      },
+      {
+        "name": "New Operational Semantics for val - Part C",
+        "weight": 2
+      },
+      {
+        "name": "Algebraic Laws and Code Structure - list-of?",
+        "weight": 8
+      },
+      {
+        "name": "Algebraic Laws and Code Structure - formula?",
+        "weight": 9
+      },
+      {
+        "name": "Algebraic Laws and Code Structure - eval-formula",
+        "weight": 13
+      },
+      {
+        "name": "Functional Correctness - list-of?",
+        "weight": 10
+      },
+      {
+        "name": "Functional Correctness - formula?",
+        "weight": 10
+      },
+      {
+        "name": "Functional Correctness - eval-formula",
+        "weight": 12
+      },
+      {
+        "name": "Functional Correctness - SAT solver",
+        "weight": 23
+      }
+    ]
+  },
+  {
+    "name": "Homework 6",
+    "components": [
+      {
+        "name": "Part A - Classic list operations - Structure and Organization",
+        "weight": 15
+      },
+      {
+        "name": "Part A - Classic list operations - Style and Unit Tests",
+        "weight": 10
+      },
+      {
+        "name": "Part A - Classic list operations - Functional Correctness - mynull",
+        "weight": 4
+      },
+      {
+        "name": "Part A - Classic list operations - Functional Correctness - reverse",
+        "weight": 4
+      },
+      {
+        "name": "Part A - Classic list operations - Functional Correctness - minlist",
+        "weight": 4
+      },
+      {
+        "name": "Part A - Classic list operations - Functional Correctness - zip",
+        "weight": 4
+      },
+      {
+        "name": "Part A - Classic list operations - Functional Correctness - pairfoldrEq",
+        "weight": 4
+      },
+      {
+        "name": "Part A - Classic list operations - Functional Correctness - ziptoo",
+        "weight": 4
+      },
+      {
+        "name": "Part A - Classic list operations - Functional Correctness - concat",
+        "weight": 4
+      },
+      {
+        "name": "Part A - Clean Unit tests in warmup.sml",
+        "weight": 5
+      },
+      {
+        "name": "Part B - Manipulating S-expressions - Functional Correctness of flattenSyms",
+        "weight": 10
+      },
+      {
+        "name": "Part B - Manipulating S-expressions - Functional Correctness of numbersSx",
+        "weight": 2
+      },
+      {
+        "name": "Part C - Augmenting the Scheme interpreter - Structure and Organization",
+        "weight": 18
+      },
+      {
+        "name": "Part C - Augmenting the Scheme interpreter - Functional Correctness",
+        "weight": 12
+      }
+    ]
+  },
+  {
+    "name": "Homework 7",
+    "components": [
+      {
+        "name": "Part A - Theory (type rules for queues in Typed Scheme)",
+        "weight": 15
+      },
+      {
+        "name": "Part B - Polymorphic List Functions - Functional Correctness",
+        "weight": 15
+      },
+      {
+        "name": "Part B - Polymorphic List Functions - Structure and Organization",
+        "weight": 5
+      },
+      {
+        "name": "Part C - Writing the Typed Scheme Type Checker - Functional Correctness",
+        "weight": 35
+      },
+      {
+        "name": "Part C - Writing the Typed Scheme Type Checker - Structure and Organization",
+        "weight": 20
+      },
+      {
+        "name": "Part C - Writing the Typed Scheme Type Checker - Regression Tests",
+        "weight": 10
+      }
+    ]
+  },
+  {
+    "name": "Homework 8",
+    "components": [
+      {
+        "name": "Part A - Theory (constraint-based rules for BEGIN and LAMBDA)",
+        "weight": 15
+      },
+      {
+        "name": "Part B - Constraint Solver - Functional Correctness",
+        "weight": 25
+      },
+      {
+        "name": "Part B - Constraint Solver - Structure and Organization",
+        "weight": 15
+      },
+      {
+        "name": "Part C - Type Checker - Functional Correctness",
+        "weight": 25
+      },
+      {
+        "name": "Part C - Type Checker - Structure and Organization",
+        "weight": 20
+      }
+    ]
+  },
+  {
+    "name": "Homework 9",
+    "components": [
+      {
+        "name": "ML interpreter - Functional Correctness - Preprocessing in ML",
+        "weight": 10
+      },
+      {
+        "name": "ML interpreter - Functional Correctness - Shift",
+        "weight": 5
+      },
+      {
+        "name": "ML interpreter - Structure and Organization",
+        "weight": 5
+      },
+      {
+        "name": "uSmallTalk interpreter - Functional Correctness - oop-basics",
+        "weight": 25
+      },
+      {
+        "name": "uSmallTalk interpreter - Functional Correctness - intersection",
+        "weight": 20
+      },
+      {
+        "name": "uSmallTalk interpreter - Functional Correctness - inlining",
+        "weight": 10
+      },
+      {
+        "name": "uSmallTalk interpreter - Structure and Organization",
+        "weight": 15
+      },
+      {
+        "name": "uSmallTalk interpreter - Double-Dispatch and Unit Testing",
+        "weight": 10
+      }
+    ]
+  }
+]
